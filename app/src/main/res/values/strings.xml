@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SixthLecture</string>
+    <string name="work">Работает</string>
+    <string name="bd">Дата рождения</string>
+    <string name="contacts">Контакты</string>
+    <string name="phone">Телефон</string>
+    <string name="email">E-mail</string>
+    <string name="vk">VK</string>
+    <string name="work_data">Данные о работе</string>
+    <string name="achievements">Достижения</string>
+    <string name="none_achievements">Пока нет достижений</string>
+    <string name="awards">Награды</string>
+    <string name="none_awards">Пока нет наград</string>
+    <string name="online">В сети</string>
+    <string name="offline">Не в сети</string>
+    <string name="expand">Развернуть</string>
+    <string name="collapse">Свернуть</string>
+    <string name="call">CALL</string>
+    <string name="send">MESSAGE</string>
+</resources>
